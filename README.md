@@ -11,3 +11,5 @@ $git pull origin master//把本地仓库的变化连接到远程仓库主支
 $git pull origin master --allow-unrelated-histories//如果报:refusing to merge to merge unrelated histories时使用
 $git push -u origin master//推送变更到github上面
 ```
+
+![卡莎](https://github.com/anyeguiyuzhe/my-picture/blob/master/001.jpg)
