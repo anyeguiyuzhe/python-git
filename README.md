@@ -12,4 +12,4 @@ $git pull origin master --allow-unrelated-histories//如果报:refusing to merge
 $git push -u origin master//推送变更到github上面
 ```
 
-![卡莎](https://github.com/anyeguiyuzhe/my-picture/blob/master/001.jpg)
+
